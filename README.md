@@ -10,6 +10,8 @@
 4、由人脸包络生成掩码图
 5、将掩码图和马赛克图结合生成最终的动态人脸马赛克图像
 
+如果对您有帮助，麻烦给我一颗星，谢谢了
+
 depend lib:opencv2411or up、Dlib19.7 or up
 
 The main algorithm steps:
@@ -20,6 +22,6 @@ The main algorithm steps:
 4, by the face envelope generation mask map
 5. Combine the mask map and the mosaic map to generate the final dynamic face mosaic image.
 
-
+If you feel helpful to you, please give me a star, thank you
 
 ![效果图1](https://github.com/XuHao9166/Masic_MoveFace/blob/master/1.bmp)
