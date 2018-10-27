@@ -16,6 +16,6 @@ The main algorithm steps:
 4, by the face envelope generation mask map
 5. Combine the mask map and the mosaic map to generate the final dynamic face mosaic image.
 
+
+
 <IMG src="file:///C:\Users\许皓\AppData\Roaming\feiq\RichOle\1302509339.bmp">
-<IMG src="file:///C:\Users\许皓\AppData\Roaming\feiq\RichOle\3515644273.bmp">
-<IMG src="file:///C:\Users\许皓\AppData\Roaming\feiq\RichOle\1786268420.bmp">
